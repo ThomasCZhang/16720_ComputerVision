@@ -1,7 +1,7 @@
 ﻿# 16720_ComputerVision
 
 Homeworks:
-1.
+1. Feature selection
 2.
 3.
 4.
